@@ -1,0 +1,4 @@
+baseURL = "http://blog.ghettolabs.online/"
+languageCode = "en-us"
+title = "My DevOps Blog"
+theme = "ananke"
