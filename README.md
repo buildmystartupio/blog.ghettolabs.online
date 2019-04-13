@@ -1,2 +1,2 @@
 # myhugosite
-Testing Hugo with CICD
+Testing Hugo with Cloud Build on GCP
